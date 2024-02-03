@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github-repository](https://your-solution-url.com)
-- Live Site URL: [social-link-page](https://your-live-site-url.com)
+- Solution URL: [github-repository](https://github.com/anojumisa/Social-links-profile)
+- Live Site URL: [social-link-page](https://anojumisa.github.io/Social-links-profile/)
 
 ## My process
 
